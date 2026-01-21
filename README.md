@@ -1,6 +1,6 @@
 # NEXORA - Modern Brand Landing Page
 
-![Nexora Landing Page Screenshot](Demo-pic.png)
+![Nexora Landing Page Screenshot](public\Demo-pic.png)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Built With](https://img.shields.io/badge/Built%20With-Gemini%20AI-blueviolet)
